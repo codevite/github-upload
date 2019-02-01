@@ -1,5 +1,5 @@
 var RowManager = function(table){
-
+//testing
 	this.table = table;
 	this.element = this.createHolderElement(); //containing element
 	this.tableElement = this.createTableElement(); //table element
